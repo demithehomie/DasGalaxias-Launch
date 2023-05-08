@@ -8,4 +8,4 @@ Being more specific, we'll start by solving mobility problems at the city of Rio
 3 - Can we see imperfections at the roads through AI?
 4 - AI for small and mini vehicles, at Rio de Janeiro.
 
-Why Rio? Well, It's a city that has specific challenges, so if we can solve them here, we hope them to be solved from almost anywhere.
+Why Rio? Well, It's a city that has specific challenges, so if we can solve them there, we hope them to be solved from almost anywhere.
